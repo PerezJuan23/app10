@@ -17,6 +17,7 @@
   font-weight: bold;
   font-family: "Times New Roman" ,Times , serif;
   color: #FFF;
+  background-image:linear-gradient(rgba(0,102,204,1),rgba(102,102,102,1));
 }
 #teclado{
   float: left;
@@ -30,6 +31,7 @@
 	outline:#03F solid 1px;
 	background:#CCC;
     width:14.28571428571429%;
+	background-image:linear-gradient(rgba(102,102,102,1),rgba(0,102,204,1));
 }
 .tocada{
 	background: #6F6;
